@@ -1,4 +1,4 @@
-Gene Name,Expression Relative to PanCK,Type,ER,PR,HER2
+Gene,Expression,Type,ER,PR,HER2
 PEAK1,Medium,Metastasis,-,-,-
 VCL,High,Metastasis,-,-,-
 INHBA,High,Metastasis,-,-,-
